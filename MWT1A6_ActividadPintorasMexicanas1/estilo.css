@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=PT+Serif&family=Roboto+Slab&display=swap');
+body{
+    background-color: hotpink;
+    /* margen de la pagina */
+    margin: 15px;
+}
+#titulo1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 50px ;
+    color: indigo;
+    /* aliniacion del texto */
+    text-align: center;
+    /* Sombra al texto */
+    text-shadow: 5px 5px rgb(0, 172, 252);
+}
+#titulo2{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    color: mediumpurple;
+}
+#parrafo1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    color: dimgray;
+}
+#titulo3{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    text-align: right;
+    color: rgb(42, 47, 53);
+    font-size: 50px;
+}
+.pintora1{
+    background-color: cyan; 
+    /* borde punteado */
+    border: dotted; 
+    /*ancho del bloque  */
+    width: 260px;
+     /* largo del bloque */
+    height: 720px;
+     /*float para alinearlos de manera horizontal  */
+    float: left;
+    /* margen interior  para la letra */
+    padding: 25px;  
+    font-size: 15px;
+        /* sombra se caja */
+    box-shadow: 25px 25px royalblue ;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.pintora2{
+    background-color: rgb(111, 0, 255); 
+    /* borde punteado */
+    border: dotted; 
+    /*ancho del bloque  */ 
+    width: 260px;
+     /* largo del bloque */
+    height: 720px;
+     /*float para alinearlos de manera horizontal  */
+    float: left; 
+    /* margen interior  para la letra */
+    padding: 25px;  
+    font-size: 15px;
+    /* sombra se caja */
+    box-shadow: 25px 25px royalblue ;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.pintora3{
+    background-color: rgb(0, 255, 21); 
+    /* borde punteado */
+    border: dotted; 
+    /*ancho del bloque  */ 
+    width: 260px;
+     /* largo del bloque */
+    height: 720px;
+     /*float para alinearlos de manera horizontal  */
+    float: left; 
+    /* margen interior  para la letra */
+    padding: 25px; 
+    font-size: 15px; 
+    /* sombra se caja */
+    box-shadow: 25px 25px royalblue ;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.pintora4{
+    background-color: rgb(255, 0, 128); 
+    /* borde punteado */
+    border: dotted;
+      /*ancho del bloque  */
+    width: 260px;
+    /* largo del bloque */
+    height: 720px;
+     /*float para alinearlos de manera horizontal  */
+    float: left;
+    /* margen interior  para la letra */
+    padding: 25px; 
+    font-size: 15px;
+    /* sombra se caja */
+    box-shadow: 25px 25px royalblue ;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Slab', serif; 
+}
+/* estilo de la imagen */
+img{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+#centrado1{
+    text-align: center;
+    color: mediumblue;
+}
+#centrado2{
+    text-align: center;
+    color: purple;
+}
+p{
+    text-align: justify;
+    color: rgb(47, 23, 61);
+}
+#pie{
+    color: rgb(8, 43, 59);
+    font-size: 15px;
+    float: left;
+}
